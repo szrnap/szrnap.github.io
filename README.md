@@ -1,2 +1,1 @@
-# szrnap.github.io
-Demo page
+Végleges verzió - Szrna Péter
